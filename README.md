@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Charlene 👋</h1>
-<h3 align="center">Data storyteller, building things one dataset at a time 📊🌍</h3>
+<h3 align="center">Data storyteller, building things one dataset at a time </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+DataStories.fyi+%F0%9F%93%8A;Learning+Python+%2B+ML+one+model+at+a+time+%F0%9F%A4%96;Currently+obsessed+with+telecom+data+%F0%9F%93%A1" alt="Typing SVG" />
@@ -7,10 +7,10 @@
 
 ---
 
-### 🌱 A bit about me
+### A bit about me
 
-- 📊 I write **[DataStories.fyi](https://charlenemuchechesi.github.io/datastories.fyi/)** — a small data-journalism site 
-- 🌍 I care a lot about **financial inclusion** and **girls' education** in Africa — most of what I build ties back to one of those two
+- 📊 I write **[DataStories.fyi](https://charlenemuchechesi.github.io/datastories.fyi/)** — a small data journalism site 
+- 🌍 I care a lot about **financial inclusion** and **girls' education** in Africa, most of what I build ties back to one of those two
 - 🧠 Slowly leveling up in data science and machine learning, with AI as the long game
 - 🇿🇼 Based in Harare, Zimbabwe
 
@@ -54,4 +54,4 @@
 
 ---
 
-<p align="center"><i>Thanks for stopping by — more projects coming soon 🚀</i></p>
+<p align="center"><i>Thanks for stopping by, more projects coming soon 🚀</i></p>
