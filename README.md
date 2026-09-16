@@ -2,7 +2,7 @@
 <h3 align="center">Data storyteller, building things one dataset at a time </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+DataStories.fyi+%F0%9F%93%8A;Learning+Python+%2B+ML+one+model+at+a+time+%F0%9F%A4%96;Currently+obsessed+with+telecom+data+%F0%9F%93%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+DataStories.fyi+%F0%9F%93%8A;Learning+Python+%2B+ML+one+model+at+a+time+%F0%9F%A4%96;Currently+obsessed+with+AI+models+%F0%9F%93%A1" alt="Typing SVG" />
 </p>
 
 ---
