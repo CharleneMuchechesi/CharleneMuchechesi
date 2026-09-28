@@ -10,7 +10,7 @@
 ### A bit about me
 
 - 📊 I write **[DataStories.fyi](https://charlenemuchechesi.github.io/datastories.fyi/)** — a small data journalism site 
-- 🌍 I care a lot about **financial inclusion** and **girls' education** in Africa, most of what I build ties back to one of those two
+- 🌍 I care a lot about **sustainability** be it in education, finance or energy, most of what I build ties back to one of those two
 - 🧠 Slowly leveling up in data science and machine learning, with AI as the long game
 - 🇿🇼 Based in Harare, Zimbabwe
 
