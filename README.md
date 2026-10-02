@@ -30,8 +30,7 @@
 
 ### 🔭 Currently building
 
-- 📈 A SADC girls' education dashboard
-- 🤖 An LLM chatbot with safety guardrails
+- 📈 An alternative credit rating model
 - 🔍 A RAG pipeline
 - 📝 Growing DataStories.fyi's design and a projects section
 
