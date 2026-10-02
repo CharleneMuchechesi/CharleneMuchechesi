@@ -43,7 +43,7 @@
 ### 📫 Let's connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/charlene-muchechesi2b6832237" target="_blank">
+  <a href="https://www.linkedin.com/in/charlene-muchechesi-2b6832237/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://charlenemuchechesi.github.io/datastories.fyi/" target="_blank">
